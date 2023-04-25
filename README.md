@@ -1,10 +1,10 @@
-# Developed-an-improved-one-hot-encoding-method-for-bubbly-flow-image-prediction-generation-under-continuable velocities
+# Developed an improved one-hot encoding method for bubbly flow image prediction generation under continuous superficial gas velocities
 
-In this paper, we proposed an improved one-hot method to achieve bubbly images generation at continuable superficial gas velocities.
+In this paper, we proposed an improved one-hot method to achieve bubbly images generation under continuous superficial gas velocities.
 
 ## Resouces
 
-The weight file of the pretrained prediction model and the detector can be found on [Google Drive](https://drive.google.com/drive/folders/1yabGWhDVhZF-wJRkcB1fvQlKVyysC5Vf?usp=sharing)
+The weight files of the pretrained prediction model and the detector can be found on [Google Drive](https://drive.google.com/drive/folders/1yabGWhDVhZF-wJRkcB1fvQlKVyysC5Vf?usp=sharing)
 
 ## System requirement
 * Python 3.5.2 
@@ -12,7 +12,7 @@ The weight file of the pretrained prediction model and the detector can be found
 * tensorflow 1.14.0 
 * CUDA 10.0 toolkit and cuDNN 7.5.
 
-## Predict bubbly flow images with continuable superficial gas velocities
+## Predict bubbly flow images at continuous superficial gas velocities
 
 **Using pretrained model to generate bubbly flow image**
 ```python
