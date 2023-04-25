@@ -1,0 +1,89 @@
+dnnlib: Running run_generator.generate_images() on localhost...
+Loading networks from "/media/amax/64eba332-91d9-4e9d-b3d9-09604ee677ab/RLJ/logs/4_13/network-final.pkl"...
+Setting up TensorFlow plugin "fused_bias_act.cu": Preprocessing... Loading... Done.
+Setting up TensorFlow plugin "upfirdn_2d.cu": Preprocessing... Loading... Done.
+Tensor("D/Output/Sum:0", shape=(?, 1), dtype=float32)
+Tried to convert 'y' to a tensor and failed. Error: Cannot convert an unknown Dimension to a Tensor: ?
+<dnnlib.tflib.network.Network object at 0x7fd99c279160>
+<dnnlib.tflib.network.Network object at 0x7fd99c279160>
+Generating image for seed 6600 (0/10) ...
+(1, 128)
+128
+
+[0.0, 1.0, 0.0, 0.0, 0.0]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6601 (1/10) ...
+(1, 128)
+128
+
+[0.0, 1.0, 0.0, 0.0, 0.0]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6602 (2/10) ...
+(1, 128)
+128
+
+[0.0, 1.0, 0.0, 0.0, 0.0]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6603 (3/10) ...
+(1, 128)
+128
+
+[0.0, 1.0, 0.0, 0.0, 0.0]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6604 (4/10) ...
+(1, 128)
+128
+
+[0.0, 1.0, 0.0, 0.0, 0.0]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6605 (5/10) ...
+(1, 128)
+128
+
+[0.0, 1.0, 0.0, 0.0, 0.0]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6606 (6/10) ...
+(1, 128)
+128
+
+[0.0, 1.0, 0.0, 0.0, 0.0]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6607 (7/10) ...
+(1, 128)
+128
+
+[0.0, 1.0, 0.0, 0.0, 0.0]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6608 (8/10) ...
+(1, 128)
+128
+
+[0.0, 1.0, 0.0, 0.0, 0.0]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6609 (9/10) ...
+(1, 128)
+128
+
+[0.0, 1.0, 0.0, 0.0, 0.0]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+dnnlib: Finished run_generator.generate_images() in 19s.
